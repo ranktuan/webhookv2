@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Qt6eEN0nPiOos3ahrTjusiFr6H+ETX6avPsMwrzt7Ho=",
+  "Source": "MinvoiceWebhook",
+  "BasePath": "_content/MinvoiceWebhook",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
